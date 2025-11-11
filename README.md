@@ -11,3 +11,9 @@
 <a href="https://github.com/CodeMarcsX">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,linux,bash,github,git,vscode" />
 </a>
+
+---------------
+
+<p align="center"> 
+  <!-- Email --> 
+<a href="mailto:codemarcs@gmail.com" alt="Email" title="Email"> <img width="32px" src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; </p>
