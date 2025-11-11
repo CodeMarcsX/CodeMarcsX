@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&background=00000000&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;My+name+is+Marcs;💻+Learning+Programming;🚀+Building+Cool+Projects)](https://github.com/CodeMarcsX)
 
-<!--
-**CodeMarcsX/CodeMarcsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+`Hey there! I'm Marcos, a beginner programmer passionate about technology.`                                                                 
+`🚀 I’m currently learning and improving my skills in C programming.`                                                               
+`🎯 My goal is to understand how things work behind the code and keep learning every day.`                                                                 
+`🌱 I enjoy solving small problems and building simple projects to practice my logic.`                                                      
+`💡 Step by step, I’m becoming the developer I want to be.`                                                               
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tools and Skills
+<a href="https://github.com/seu-usuario">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,linux,bash,github,git,vscode" />
+</a>
