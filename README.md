@@ -8,6 +8,6 @@
 `💡 Step by step, I’m becoming the developer I want to be.`                                                               
 
 ### 🛠️ My Tools and Skills
-<a href="https://github.com/seu-usuario">
+<a href="https://github.com/CodeMarcsX">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,linux,bash,github,git,vscode" />
 </a>
