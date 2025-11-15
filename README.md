@@ -9,7 +9,7 @@
 
 ### 🛠️ My Tools and Skills
 <a href="https://github.com/CodeMarcsX">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,linux,bash,github,git,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,linux,bash,github,git" />
 </a>
 
 ---------------
