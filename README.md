@@ -1,4 +1,5 @@
 <a href="https://github.com/CodeMarcsX">
+  <!-- Animação do texto -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&background=00000000&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;My+name+is+Marcs;💻+Learning+Programming;🚀+Building+Cool+Projects">
 </a>
 
@@ -11,6 +12,7 @@
 
 ### 🛠️ My Tools and Skills
 <a href="https://github.com/CodeMarcsX">
+  <!-- Ícones -->
   <img width="50" src="images/C.png"/>
   <img width="50" src="images/HTML.png"/>
   <img width="50" src="images/BASH.png"/>
