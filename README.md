@@ -16,6 +16,7 @@
   <img width="50" src="images/C.png"/>
   <img width="50" src="images/HTML.png"/>
   <img width="50" src="images/CSS.png"/>
+  <img width="55" src="images/JS.png"/>
   <img width="50" src="images/BASH.png"/>
   <img width="50" src="images/GIT.png"/>
 </a>
