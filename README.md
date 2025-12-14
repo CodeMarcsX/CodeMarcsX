@@ -5,7 +5,7 @@
 
 ### 💻 About Me
 `Hey there! I'm Marcs, a beginner programmer passionate about technology.`                                                                 
-`🚀 I’m currently learning and improving my skills in C and HTML programming.`                                                               
+`🚀 I’m currently learning and improving my skills in C and Web programming.`                                                               
 `🎯 My goal is to understand how things work behind the code and keep learning every day.`                                                                 
 `🌱 I enjoy solving small problems and building simple projects to practice my logic.`                                                      
 `💡 Step by step, I’m becoming the developer I want to be.`                                                               
