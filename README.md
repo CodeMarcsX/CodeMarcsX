@@ -14,6 +14,7 @@
 <a href="https://github.com/CodeMarcsX">
   <!-- Ícones -->
   <img width="50" src="images/C.png"/>
+  <img width="50" src="images/Lua.png"/>
   <img width="50" src="images/HTML.png"/>
   <img width="50" src="images/CSS.png"/>
   <img width="55" src="images/JS.png"/>
